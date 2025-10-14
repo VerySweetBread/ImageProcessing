@@ -10,6 +10,7 @@ in
       ipython
       matplotlib
       scikit-image
+      catppuccin
     ];
 
     shellHook = ''
